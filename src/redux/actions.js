@@ -1,0 +1,7 @@
+export const GET_DATASOURCE = 'GET_DATASOURCE'
+
+export const REQUEST_POSTS = 'REQUEST_POSTS';
+
+export const RECEIVE_POSTS = 'RECEIVE_POSTS';
+
+export const SET_DATASOURCE = 'SET_DATASOURCE';
